@@ -22,6 +22,6 @@ public class MovieTestDrive {
         three.title = "Exes and whys";
         three.genre = "Love story";
         three.rating = 8;
-        three.playIt();
+        one.playIt();
     }
-}r
+}
